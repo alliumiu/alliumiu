@@ -1,4 +1,8 @@
 # Hi there 👋
+
+<img height="300px" src="https://images.pexels.com/photos/3214110/pexels-photo-3214110.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"/>
+
+# 💼 Activity
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=alliumiu&show_icons=true&theme=tokyonight" />
 <img align="left" width= "47%" src="https://streak-stats.demolab.com?user=alliumiu&theme=tokyonight&hide_border=false" />
 
